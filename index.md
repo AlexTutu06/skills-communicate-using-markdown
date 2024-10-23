@@ -4,3 +4,6 @@
 ``` C++
 char myVar[20] = "Hello, world!";
 ```
+- [x] Start the Github module
+- [ ] Finish the Github module
+- [ ] Learn for the algebra test
